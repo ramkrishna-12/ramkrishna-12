@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - portfolio: https://ramkrishna-12.github.io/portfolio/
 - 386+ contributions in the last year and counting
 - 
+<img width="1312" height="1199" alt="From Learning to Earning_ Cloud Engineer’s Journey" src="https://github.com/user-attachments/assets/6fceec84-7e16-4968-8a24-9d63f6abdc4a" />
