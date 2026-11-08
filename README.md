@@ -81,8 +81,8 @@ Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
@@ -96,7 +96,6 @@ Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker an
 </p>
 
 ## 📫 Let's connect
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=transparent&hide_border=true" alt="Top languages" /> </p>
 
 - 🌐 Portfolio: [ramkrishna-12.github.io/portfolio](https://ramkrishna-12.github.io/portfolio/)
 - 💼 LinkedIn: [Ramkrishna](https://www.linkedin.com/in/ramkrishna-roy-barman-48391b16a/)
