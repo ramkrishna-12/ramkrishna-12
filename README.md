@@ -15,8 +15,8 @@
 I build and ship cloud infrastructure on AWS: automated, observable, and zero-downtime where it counts.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramkrishna--12.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://ramkrishna-12.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishna-roy-barman-48391b16a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 </div>
 
