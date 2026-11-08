@@ -96,6 +96,7 @@ Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker an
 </p>
 
 ## 📫 Let's connect
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=transparent&hide_border=true" alt="Top languages" /> </p>
 
 - 🌐 Portfolio: [ramkrishna-12.github.io/portfolio](https://ramkrishna-12.github.io/portfolio/)
 - 💼 LinkedIn: [Ramkrishna](https://www.linkedin.com/in/ramkrishna-roy-barman-48391b16a/)
