@@ -1,23 +1,90 @@
-## Hi there 👋
+<div align="center">
+
+# Hi, I'm Ravan 👋
+
+### Cloud & DevOps / Infrastructure Engineer · Kolkata, India
+
+I build and ship cloud infrastructure on AWS: automated, observable, and zero-downtime where it counts.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ramkrishna--12.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://ramkrishna-12.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+
+</div>
+
+---
+
+## 🧭 About
+
+- ☁️ ~2 years of production experience in Cloud & DevOps, most recently as a **Cloud & Infrastructure Engineer at Stylopay (FinTech)**
+- 🧪 Came into infra from **ML / Data Science** (Digi Samurai LLP), where I also taught Python, Django and ML to college students
+- 🎓 B.Tech in Mechanical Engineering · Post Graduate Certificate in Data Science
+- ⚛️ Long-standing interest in quantum mechanics, now exploring **quantum cloud computing**
+- 📫 Open to Cloud / DevOps / SRE roles, so reach out
+
+## 🔭 What I'm working on now
+
+| | |
+|---|---|
+| 🤖 **[aws-bedrock](https://github.com/ramkrishna-12/aws-bedrock)** | Running AI models pulled from AWS Bedrock to perform real tasks, and understanding how AI workloads actually run on AWS (ongoing, ~4 months) |
+| 🌐 **[Portfolio site](https://ramkrishna-12.github.io/portfolio/)** | Static site on GitHub Pages with an inquiry chat grounded in my own portfolio data |
+| ⚛️ **Quantum cloud computing** | Learning and planning phase |
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,githubactions,jenkins,docker,kubernetes,linux,python,django,fastapi,prometheus,grafana,elasticsearch,git" alt="Tech stack" />
+</p>
+
+| Area | Tools |
+|---|---|
+| **Cloud** | AWS (EC2, ECS/Fargate, EKS, Lambda, API Gateway, ALB, Route 53, ACM, S3, RDS, IAM) |
+| **IaC & CI/CD** | Terraform, GitHub Actions (OIDC), Jenkins |
+| **Containers** | Docker, Docker Swarm, ECS, EKS |
+| **Observability** | CloudWatch, ELK, Prometheus, Grafana |
+| **Scripting & ML** | Python, Bash, Pandas, MLflow, FastAPI |
+| **OS** | Linux |
+
+## 🚀 Featured projects
+
+### 🤖 [aws-bedrock](https://github.com/ramkrishna-12/aws-bedrock)
+Anthropic models served through AWS Bedrock performing tasks, built to understand how AI models run inside AWS. *(Ongoing)*
+
+### 🔐 [file-upload-validation](https://github.com/ramkrishna-12/file-upload-validation): Secure file upload pipeline
+Defence in depth for untrusted uploads:
+- **A** filename validation → **B** magic-byte content validation → **C** AV / malware scan → **D** static analysis for scripts and macros (PDF JavaScript/OpenAction, VBA, SVG/HTML XSS)
+- Quarantine flow, API Gateway abstraction for downloads, IAM least privilege with audit logging, checksum-based integrity verification
+
+### 🧠 [Ml_Flow-Pipeline](https://github.com/ramkrishna-12/Ml_Flow-Pipeline): Fraud-detector MLOps on AWS ECS
+- Data (S3/parquet) → validate → train sweep (MLflow nested runs) → quality gate → register → challenger vs champion; promotion = moving the `@champion` alias
+- **CI:** lint, tests, pipeline smoke, Docker build, `terraform fmt/validate` · **CD:** train → build image → approval → ECS rolling deploy → smoke test
+- **Serving:** Client → ALB → ECS Fargate API loading `models:/fraud-detector@champion` from an MLflow service on ECS, backed by RDS Postgres and S3 artifacts
+
+### 📦 [shipment_error](https://github.com/ramkrishna-12/shipment_error): E-commerce ETL pipeline
+Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker and GitHub Actions: cleaning, standardisation, dedup, multi-table merge, revenue calculation, shipment aggregation, automated workflow runs.
+
+## 💼 Experience highlight
+
+### Zero-downtime multi-region Blue-Green migration @ Stylopay
+- Migrated a FinTech platform's microservices infrastructure to a new multi-region setup with **no downtime**
+- Validated against QA APIs first, then cut over to prod APIs, running a **60/40 blue/green traffic split for the first week** with the old infra kept as a fallback
+- Scope covered ~12 EC2 hosts running 3-4 microservices each, 10-12 Lambda-backed APIs behind API Gateway, Docker Swarm managers, and frontend hosts, fronted by **ALB, Route 53 and ACM**
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+## 📫 Let's connect
+
+- 🌐 Portfolio: [ramkrishna-12.github.io/portfolio](https://ramkrishna-12.github.io/portfolio/)
+- 💼 LinkedIn: [Ramkrishna](https://www.linkedin.com/in/ramkrishna-roy-barman-48391b16a/)
 
 
-**ramkrishna-12/ramkrishna-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+*Ask me about: AWS · Terraform · CI/CD · Blue-Green deployments · MLOps*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- achievements ```
-- bages : -->
-- cloud
-- repo:
-- portfolio: https://ramkrishna-12.github.io/portfolio/
-- 386+ contributions in the last year and counting
-- 
-<img width="1312" height="1199" alt="From Learning to Earning_ Cloud Engineer’s Journey" src="https://github.com/user-attachments/assets/6fceec84-7e16-4968-8a24-9d63f6abdc4a" />
+</div>
