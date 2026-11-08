@@ -1,6 +1,14 @@
 <div align="center">
 
-# Hi, I'm Ravan 👋
+<p align="center">
+  <a href="https://github.com/ramkrishna-12">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Ramkrishna" alt="Hello! I&#39;m Ramkrishna" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=900&height=44&lines=Cloud%20Engineer%20%7C%20AWS%20%7C%20Infrastructure-as-Code%20(Terraform)%20%7C;DevOps%20%7C%20Python%20%7C%20Scalable%20Systems%20%7CDevOpsAI%20%26%20Machine%20Learning%20Associate" alt="Typing headlines" />
+</p>
 
 ### Cloud & DevOps / Infrastructure Engineer · Kolkata, India
 
@@ -70,7 +78,13 @@ Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker an
 - Validated against QA APIs first, then cut over to prod APIs, running a **60/40 blue/green traffic split for the first week** with the old infra kept as a fallback
 - Scope covered ~12 EC2 hosts running 3-4 microservices each, 10-12 Lambda-backed APIs behind API Gateway, Docker Swarm managers, and frontend hosts, fronted by **ALB, Route 53 and ACM**
 
-## 📊 GitHub stats
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
 ### 📈 Contribution Graph
 
 <p align="center">
