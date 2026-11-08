@@ -71,7 +71,11 @@ Production-style ETL on messy shipment/order CSVs with Python, Pandas, Docker an
 - Scope covered ~12 EC2 hosts running 3-4 microservices each, 10-12 Lambda-backed APIs behind API Gateway, Docker Swarm managers, and frontend hosts, fronted by **ALB, Route 53 and ACM**
 
 ## 📊 GitHub stats
+### 📈 Contribution Graph
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ramkrishna-12&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramkrishna-12&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishna-12&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
